@@ -39,10 +39,10 @@ function App() {
           </div>
 
           <div className="flex items-center justify-center space-x-5">
-            <button className="py-1 px-3 sm:px-5 text-sm rounded bg-[#333333] text-white shadow font-semibold">
+            <button className="py-1 px-3 sm:px-5 text-sm sm:text-base rounded bg-[#333333] text-white shadow font-semibold">
               Explore Products
             </button>
-            <button className="py-1 px-3 sm:px-5 text-sm rounded bg-[#fad02c] text-[#333333] shadow font-semibold">
+            <button className="py-1 px-3 sm:px-5 text-sm sm:text-base rounded bg-[#fad02c] text-[#333333] shadow font-semibold">
               Book a Demo
             </button>
           </div>
